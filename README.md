@@ -1,1 +1,1 @@
-Algorithms and Data Structures Course
+Comprehensive curriculum in Algorithms and Data Structures, supported by the resolution of over 1,700 LeetCode problems. Emphasis placed on foundational theory, optimized problem-solving methodologies, and alignment with contemporary technical interview standards.
